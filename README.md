@@ -12,4 +12,4 @@
 * [vue](https://github.com/Richard-Choooou/notes/issues?q=is%3Aopen+is%3Aissue+label%3Avue)
 * [工程配置](https://github.com/Richard-Choooou/notes/issues?q=is%3Aopen+is%3Aissue+label%3A%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE)
 * [物联网](https://github.com/Richard-Choooou/notes/issues?q=label%3A%E7%89%A9%E8%81%94%E7%BD%91+)
-
+* [electron](https://github.com/Richard-Choooou/notes/labels/electron)
